@@ -1,8 +1,8 @@
-{
+[
   {"id" : 1, "name": "Mohammad"},
   {"id" : 2, "name": "Rifqi"},
   {"id" : 3, "name": "Sucahyo"},
   {"id" : 4, "name": "Mohammad Rifqi"},
   {"id" : 5, "name": "Rifqi Sucahyo"},
   {"id" : 6, "name": "Mohammad Rifqi Sucahyo"}
-}
+]
