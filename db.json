@@ -1,8 +1,8 @@
 [
-  {"id" : 1, "name"; Mohammad},
-  {"id" : 1, "name"; Rifqi}
-  {"id" : 1, "name"; Sucahyo}
-  {"id" : 1, "name"; Mohammad Rifqi}
-  {"id" : 1, "name"; Rifqi Sucahyo}
-  {"id" : 1, "name"; Mohammad Rifqi Sucahyo}
+  {"id" : 1, "name": Mohammad},
+  {"id" : 1, "name": Rifqi}
+  {"id" : 1, "name": Sucahyo}
+  {"id" : 1, "name": Mohammad Rifqi}
+  {"id" : 1, "name": Rifqi Sucahyo}
+  {"id" : 1, "name": Mohammad Rifqi Sucahyo}
 ]
